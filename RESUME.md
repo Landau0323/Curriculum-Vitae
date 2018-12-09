@@ -18,7 +18,11 @@ daisuke.sato0323@gmail.com
 |2013/03|京都大学大学院　理学研究科　物理学・宇宙物理学専攻原子核理論研究室　博士後期課程|卒業(博士号取得)|
 
 ## 職歴
-2013/04 - 2018/03: 国内外の研究機関（2013/04 - 2014/09: 理化学研究所（アメリカBrookhaven National Laboratory勤務）・2014/10 - 2016/02: イタリアFondazione Bruno Kessler・2016/03 - 2018/03: ドイツGoethe-Universität）
+2013/04 - 2014/09: 理化学研究所（アメリカBrookhaven National Laboratory勤務）
+
+2014/10 - 2016/02: イタリアFondazione Bruno Kessler
+
+2016/03 - 2018/03: ドイツGoethe-Universität
 
 職務:理論物理学（主として素粒子物理）の研究　ポスドク
 
