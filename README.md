@@ -54,12 +54,12 @@ to be updated...
 [論文リスト（物理）](http://inspirehep.net/search?ln=ja&p=find+a+d.+satow&of=hb&action_search=%E6%A4%9C%E7%B4%A2)
 
 ## 特許
-- 
+- 特許第6531273号「寸法データ算出装置、プログラム、方法、製品製造装置、及び製品製造システム」https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6531273/61DD9B13CE0BE3DFDB3711B14797DCA7DB446E3409B9CF5C592536E7D8C66428/15/ja
 
 ## 学会発表
 ### 機械学習関係
-- SSII2019(ポスター発表) to be written
-- ICIAM2019(口頭発表) to be written
+- SSII2019(ポスター発表): インタラクティブセッション IS3-36「属性情報および画像を使った人体寸法推定」佐藤 大輔、有田 親史、石橋 佳久、八登 浩紀
+- ICIAM2019(口頭発表): "Mathematics in machine learning" Daisuke Satow, Yoshihiro Ohta
 
 ### 物理関係
 to be updated...
