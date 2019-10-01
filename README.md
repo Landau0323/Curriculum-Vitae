@@ -51,6 +51,7 @@
 - 「近年の画像採寸技術の進展」佐藤大輔、八登浩紀、画像ラボから出版予定
 
 ### 物理関係
+19本の原著論文、1本のレビュー論文を国際誌から出版。
 [論文リスト（物理）](http://inspirehep.net/search?ln=ja&p=find+a+d.+satow&of=hb&action_search=%E6%A4%9C%E7%B4%A2)
 
 ## 特許
