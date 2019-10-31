@@ -55,9 +55,12 @@
 [論文リスト（物理）](http://inspirehep.net/search?ln=ja&p=find+a+d.+satow&of=hb&action_search=%E6%A4%9C%E7%B4%A2)
 
 ## 特許
+### 画像採寸関係
 - 特許第6531273号「寸法データ算出装置、プログラム、方法、製品製造装置、及び製品製造システム」https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6531273/61DD9B13CE0BE3DFDB3711B14797DCA7DB446E3409B9CF5C592536E7D8C66428/15/
 - 特許第6579353号「情報処理装置、情報処理方法、寸法データ算出装置、及び製品製造装置」https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6579353/41C9A079DDF6B53B343FF354D3027BE72AE25B41098638649299D9C725366D93/15/ja
-- 他1件特許出願中
+- 特許第6593830号「情報処理装置、情報処理方法、寸法データ算出装置、及び製品製造装置」https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6593830/0C6EE4FEA5C76AE30C912623EA734534B0ACFA23AE1A477B5ECAAF23697FD199/15/ja
+### ロボット関係
+- 他3件特許出願中
 
 ## 学会発表
 ### 機械学習関係
