@@ -152,6 +152,11 @@ to be updated...
 |2004/04|京都大学　理学部|入学|	
 |2004/03|広島県立尾道北高校|卒業|								
 
+## 履修した講座
+- Google Cloud Platform Big Data and Machine Learning Fundamentals  
+2019年12月17日  
+https://www.coursera.org/account/accomplishments/certificate/5747H6L7HJCU?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate
+
 ## 趣味
 - ハイキング
 - バッティングセンター
