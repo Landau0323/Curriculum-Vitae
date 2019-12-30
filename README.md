@@ -154,8 +154,14 @@ to be updated...
 
 ## 履修した講座
 - Google Cloud Platform Big Data and Machine Learning Fundamentals  
+Coursera  
 2019年12月17日  
-https://www.coursera.org/account/accomplishments/certificate/5747H6L7HJCU?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate
+https://www.coursera.org/account/accomplishments/verify/5747H6L7HJCU
+
+- Serverless Machine Learning with Tensorflow on Google Cloud Platform  
+Coursera  
+2019年12月30日  
+https://www.coursera.org/account/accomplishments/verify/WTQB9DEV32AP
 
 ## 趣味
 - ハイキング
