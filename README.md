@@ -163,6 +163,9 @@ Coursera
 2019年12月30日  
 https://www.coursera.org/account/accomplishments/verify/WTQB9DEV32AP
 
+- デンソーウェーブ　ロボットスクール　基本コース  
+2018年
+
 ## 趣味
 - ハイキング
 - バッティングセンター
