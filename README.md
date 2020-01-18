@@ -163,6 +163,11 @@ Coursera
 2019年12月30日  
 https://www.coursera.org/account/accomplishments/verify/WTQB9DEV32AP
 
+- Introduction to AI in the Data Center  
+Nvidia  
+2020年1月19日  
+https://www.youracclaim.com/badges/8d8e45e1-0c86-4697-8061-c38136160f04/public_url
+
 - デンソーウェーブ　ロボットスクール　基本コース  
 2018年
 
