@@ -70,6 +70,7 @@
 ### 機械学習関係
 - SSII2019(ポスター発表): インタラクティブセッション IS3-36「属性情報および画像を使った人体寸法推定」佐藤 大輔、有田 親史、石橋 佳久、八登 浩紀
 - ICIAM2019(口頭発表): "Mathematics in machine learning" Daisuke Satow, Yoshihiro Ohta
+- SSII2020(ポスター発表): インタラクティブセッション IS3-08「画像および3D点群を用いた人体寸法・3D形状推定」中野 嵩士、佐藤 大輔、八登 浩紀
 
 ### 物理関係
 to be updated...
