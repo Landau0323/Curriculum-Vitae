@@ -15,8 +15,8 @@
   - python
     - 機械学習：numpy, pandas, jupyter notebook, scikit-learn, tensorflow, keras
     - ロボット制御：ROS
-    	- ロボットアーム
-	- モバイルマニピュレーター
+      - ロボットアーム
+      - モバイルマニピュレーター
     - 画像処理：OpenCV
     - 3Dデータ処理：Open3D
 - 業務で使用したことのある言語
