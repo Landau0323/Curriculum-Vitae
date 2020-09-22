@@ -1,3 +1,6 @@
+**This page is on my research acticity in theoretical physics.**  
+You can go back to my [CV](https://landau0323.github.io/Curriculum-Vitae/) if you want.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -20,8 +23,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-**This page is on my research acticity in theoretical physics.**  
-You can go back to my [CV](https://landau0323.github.io/Curriculum-Vitae/) if you want.
 
 # Research interests
 - Quark-Gluon plasma
