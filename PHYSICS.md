@@ -24,13 +24,14 @@
 1. ...
 
 ### Ones written in Japanese
-1. “Novel Kinetic Theory Describing Ultrasoft Fermionic Mode” (Japanese)  
+1. “Novel Kinetic Theory Describing Ultrasoft Fermionic Mode” (*Japanese*)  
 <ins>佐藤大輔</ins>、日高義将、『素粒子論研究（電子版）』、**11**, 1, 152 (2012)
 
-“Analysis of fermionic soft mode with resummed perturbation theory” (Japanese), 
-佐藤大輔、日高義将、国広悌二、『素粒子論研究』、118-4、pp. D113―D115 (2011).  
- “Spectral Function of a Fermion Coupled with Massive Vector Particle at Finite Temperature” (Japanese), 
-佐藤大輔、日高義将、国広悌二、『素粒子論研究』、118-1、pp. A161―A163 (2010).
+2. “Analysis of fermionic soft mode with resummed perturbation theory” (*Japanese*)  
+<ins>佐藤大輔</ins>、日高義将、国広悌二、『素粒子論研究』、**118-4**、pp. D113―D115 (2011)
+
+3. “Spectral Function of a Fermion Coupled with Massive Vector Particle at Finite Temperature” (*Japanese*)   
+<ins>佐藤大輔</ins>、日高義将、国広悌二、『素粒子論研究』、**118-1**、pp. A161―A163 (2010)
 
 
 ## Thesis
