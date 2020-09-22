@@ -170,17 +170,17 @@ CTO 兼 研究開発本部長
 - Google Cloud Platform Big Data and Machine Learning Fundamentals  
 Coursera  
 2019年12月17日  
-https://www.coursera.org/account/accomplishments/verify/5747H6L7HJCU
+[certificate](https://www.coursera.org/account/accomplishments/verify/5747H6L7HJCU)
 
 - Serverless Machine Learning with Tensorflow on Google Cloud Platform  
 Coursera  
 2019年12月30日  
-https://www.coursera.org/account/accomplishments/verify/WTQB9DEV32AP
+[certificate](https://www.coursera.org/account/accomplishments/verify/WTQB9DEV32AP)
 
 - Introduction to AI in the Data Center  
 Nvidia  
 2020年1月19日  
-https://www.youracclaim.com/badges/8d8e45e1-0c86-4697-8061-c38136160f04/public_url
+[certificate](https://www.youracclaim.com/badges/8d8e45e1-0c86-4697-8061-c38136160f04/public_url)
 
 - デンソーウェーブ　ロボットスクール　基本コース  
 2018年
