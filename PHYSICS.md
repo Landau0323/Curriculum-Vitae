@@ -1,3 +1,25 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Research interests](#research-interests)
+- [Papers](#papers)
+  - [Regular articles (Search results in SPIRES)](#regular-articles-search-results-in-spires)
+  - [Review articles](#review-articles)
+    - [Ones written in English](#ones-written-in-english)
+    - [Ones written in Japanese](#ones-written-in-japanese)
+  - [Proceedings](#proceedings)
+    - [Ones written in English](#ones-written-in-english-1)
+    - [Ones written in Japanese](#ones-written-in-japanese-1)
+  - [Thesis](#thesis)
+- [Presentations](#presentations)
+  - [Ones at workshops/conferences](#ones-at-workshopsconferences)
+    - [International ones](#international-ones)
+    - [Domestic ones](#domestic-ones)
+  - [Invited seminars](#invited-seminars)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 **This page is on my research acticity in theoretical physics.**  
 You can go back to my [CV](https://landau0323.github.io/Curriculum-Vitae/) if you want.
 
