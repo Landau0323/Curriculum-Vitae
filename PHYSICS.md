@@ -21,7 +21,14 @@
 
 ## Proceedings
 ### Ones written in English
-1. ...
+1. “Exact sum rules for vector channel at finite temperature and their application to lattice QCD analysis”   
+<ins>D. Satow</ins> and P. Gubler, EPJ Web Conf. **137**, 07022 (2017)
+
+2. “Production of dilepton/photon in semi-quark gluon plasma”  
+Y. Hidaka, S. Lin, R. D. Pisarski, <ins>D. Satow</ins> and V. V. Skokov, Nucl. Phys. A **931**, 681 (2014)
+
+3. “Fermion Spectrum at Ultrasoft Region in a Hot QED/QCD Plasma”  
+<ins>D. Satow</ins> and Y. Hidaka, AIP Conf. Proc. **1441**, 791 (2012) [arXiv:1109.0088 [hep-ph]]
 
 ### Ones written in Japanese
 1. “Novel Kinetic Theory Describing Ultrasoft Fermionic Mode” (*Japanese*)  
