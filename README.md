@@ -1,6 +1,3 @@
----
-title: Blogging Like a Hacker
----
 
 # 職務経歴書
 
