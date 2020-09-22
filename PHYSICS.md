@@ -5,15 +5,76 @@
 
 # Papers
 ## Regular articles ([Search results in SPIRES](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20a%20d.%20satow))
-1. ...
 
-2. ...
+1. "Goldstino spectrum in an ultracold Bose-Fermi mixture with explicitly broken supersymmetry,"  
+H. Tajima, Y. Hidaka and <ins>D. Satow</ins>,  
+[arXiv:2001.08507 [cond-mat.quant-gas]](https://arxiv.org/abs/2001.08507)
+
+1. “Finite temperature sum rules in the vector channel at finite momentum”,  
+P. Gubler and <ins>D. Satow</ins>, Phys. Rev. D **96**, 114028 (2017).
+[arXiv:1710.02256 [hep-ph]](https://arxiv.org/abs/1710.02256)
+
+2. “Bulk Viscosity of Quark-Gluon Plasma in Strong Magnetic Fields”,  
+K. Hattori, X. G. Huang, D. H. Rischke, <ins>D. Satow</ins>, Phys. Rev. D **96**, 094009 (2017).
+[arXiv:1708.00515 [hep-ph]](https://arxiv.org/abs/1708.00515) 
+
+“Goldstino in supersymmetric Bose-Fermi mixtures in the presence of Bose Einstein condensate”,
+           J. P. Blaizot, Y. Hidaka, D. Satow, Phys. Rev. A 96, 063617 (2017) {arXiv:1707.05634 [cond-mat.quant-gas]}.
+
+“Gluon Spectrum in Quark-Gluon Plasma under Strong Magnetic Fields”,
+          K. Hattori, D. Satow, Phys. Rev. D 97, 014023 (2018) {arXiv:1704.03191 [hep-ph]}.
+
+“Longitudinal Conductivity in Strong Magnetic Field in Perturbative QCD: Complete Leading Order”, 
+          K. Hattori, S. Li, D. Satow, H.-U. Yee, Phys. Rev. D 95, 076008 (2017) {arXiv: 1610.06839 [hep-ph]}.
+
+“Electrical Conductivity of Quark-Gluon Plasma in Strong Magnetic Fields”, 
+          K. Hattori, D. Satow, Phys. Rev. D 94, 114032 (2016) {arXiv:1610.06818 [hep-ph]}
+
+“Exact vector channel sum rules at finite temperature and their applications to lattice QCD”,
+          P. Gubler, D. Satow, Phys. Rev. D 94, 094042 (2016). {arXiv:1602.08265 [hep-ph]}.
+
+“Spectral properties of the Goldstino in supersymmetric Bose-Fermi mixtures”,
+          J. P. Blaizot, Y. Hidaka, D. Satow, Phys. Rev. A 92, 063629 (2015). {arXiv:1510.06525 [cond-mat.quant-gas]}.
+
+“Chiral symmetry breaking and confinement effects on dilepton and photon production around Tc”,
+           D. Satow, W. Weise, Phys.Rev. D 92, 056001 (2015)  {arXiv:1505.03869 [hep-ph]}.
+
+“Dilepton and photon production in the presence of a nontrivial Polyakov loop”, 
+          Y. Hidaka, S. Lin, R. D. Pisarski, D. Satow, JHEP 10, 005 (2015) {arXiv:1504.01770 [hep-ph]}.
+
+“Production and Elliptic Flow of Dileptons and Photons in the semi-Quark Gluon Plasma,”
+          C. Gale, Y. Hidaka, S. Jeon, S. Lin, J-F. Paquet, R. D. Pisarski, D. Satow, V. Skokov, G. Vujanovic,     
+          Phys. Rev. Lett. 114, 072301 (2015) {arXiv:1409.4778 [hep-ph]}.
+    
+“Nonlinear electromagnetic response in quark-gluon plasma,”
+         D. Satow, Phys.Rev. D 90, 034018 (2014) {arXiv:1406.7032 [hep-ph]}.
+
+“Chiral Magnetic Effect at Weak Coupling with Relaxation Dynamics,”
+        D. Satow and H.-U. Yee, Phys.Rev. D 90, 014027 (2014) {arXiv:1406.1150 [hep-ph]}.
+
+“Ultra-soft fermionic excitation at finite chemical potential,” 
+        J. P. Blaizot and D. Satow, Phys.Rev. D 89, 096001 (2014) {arXiv:1402.0241 [hep-ph]}.
+
+“Neutrino spectral density at electroweak scale temperature,”
+       K. Miura, Y. Hidaka, D. Satow, T. Kunihiro, Phys. Rev. D 88, 065024 (2013) {arXiv:1306.1701[hep-ph]}.
+
+“Ultrasoft fermion mode and off-diagonal Boltzmann equation in quark-gluon plasma at high temperature,”
+       D. Satow, Phys. Rev. D 87, 096011 (2013) [arXiv:1303.2684 [hep-ph]]. 
+
+“Off-diagonal kinetic theory in ultrasoft momentum region at high temperature,”
+D. Satow, Y. Hidaka, Phys. Rev. D 85, 116009 (2012) [arXiv:1204.6532 [hep-ph]].
+
+“Ultrasoft Fermionic Modes at High Temperature,”
+Y. Hidaka, D. Satow and T. Kunihiro, Nucl. Phys. A 876, 93 (2012) [arXiv:1111.5015 [hep-ph]]. 
+“Spectral Function of Fermion Coupled with Massive Vector Boson at Finite Temperature in Gauge Invariant Formalism”, 
+D. Satow, Y. Hidaka and T. Kunihiro, Phys. Rev. D 83, 045017 (2011) [arXiv:1011.6452 [hep-ph]].
+
 
 
 
 ## Review articles
 ### Ones written in English
-1. “Recent Progress in QCD Condensate Evaluations and Sum Rules“  
+1. “Recent Progress in QCD Condensate Evaluations and Sum Rules“,  
 P. Gubler and <ins>D. Satow</ins>, 
 Prog. Part. Nucl. Phys. **106**, 1-67 (2019).  
 [arXiv:1812.00385 [hep-ph]](https://arxiv.org/abs/1812.00385)
@@ -24,13 +85,13 @@ Prog. Part. Nucl. Phys. **106**, 1-67 (2019).
 
 ## Proceedings
 ### Ones written in English
-1. “Exact sum rules for vector channel at finite temperature and their application to lattice QCD analysis”   
+1. “Exact sum rules for vector channel at finite temperature and their application to lattice QCD analysis”,  
 <ins>D. Satow</ins> and P. Gubler, EPJ Web Conf. **137**, 07022 (2017).
 
-2. “Production of dilepton/photon in semi-quark gluon plasma”  
+2. “Production of dilepton/photon in semi-quark gluon plasma”,  
 Y. Hidaka, S. Lin, R. D. Pisarski, <ins>D. Satow</ins> and V. V. Skokov, Nucl. Phys. A **931**, 681 (2014).
 
-3. “Fermion Spectrum at Ultrasoft Region in a Hot QED/QCD Plasma”  
+3. “Fermion Spectrum at Ultrasoft Region in a Hot QED/QCD Plasma”,  
 <ins>D. Satow</ins> and Y. Hidaka, AIP Conf. Proc. **1441**, 791 (2012).   
 [arXiv:1109.0088 [hep-ph]](https://arxiv.org/abs/1109.0088)
 
@@ -51,46 +112,46 @@ Y. Hidaka, S. Lin, R. D. Pisarski, <ins>D. Satow</ins> and V. V. Skokov, Nucl. P
 # Presentations
 ## Ones at workshops/conferences
 ### International ones
-1. “Transport coefficients of quark-gluon plasma in strong magnetic fields”  
+1. “Transport coefficients of quark-gluon plasma in strong magnetic fields”,  
 “*Strangeness and charm in hadrons and dense matter*”, in May 2017 @ YITP, Japan
 
-2. “Exact QCD sum rules in vector channel and its application in lattice QCD”  
+2. “Exact QCD sum rules in vector channel and its application in lattice QCD”,  
 “*International School of Nuclear Physics 38th Course Nuclear matter under extreme conditions -Relativistic heavy-ion collisions*”, in September, 2016 @ Erice, Italy
 
-3. “Exact sum rules for vector channel at finite temperature and their application to lattice QCD analysis”  
+3. “Exact sum rules for vector channel at finite temperature and their application to lattice QCD analysis”,  
 “*XIIth Quark Confinement and the Hadron Spectrum*”, in August, 2016 @ Thessaloniki, Greece
 
-4. “Chiral symmetry breaking and confinement effects on dilepton and photon production and their elliptic flow”  
+4. “Chiral symmetry breaking and confinement effects on dilepton and photon production and their elliptic flow”,  
 “*New perspectives on Photons and Dileptons in Ultrarelativistic Heavy-Ion Collisions at RHIC and LHC*”, in November, 2015 @ ECT*, Trento, Italy
 
-5. “Chiral symmetry breaking and confinement effects on dilepton and photon production in heavy ion collision”  
+5. “Chiral symmetry breaking and confinement effects on dilepton and photon production in heavy ion collision”,  
 “*Selected topics in the physics of the Quark Gluon Plasma and Ultrarelativistic Heavy Ion Collisions*”, in September, 2015 @ YITP, Japan
 
-6. “Fermionic Nambu-Goldstone mode and (quasi-) supersymmetry breaking at finite temperature in QCD and cold atoms”  
+6. “Fermionic Nambu-Goldstone mode and (quasi-) supersymmetry breaking at finite temperature in QCD and cold atoms”,  
 “*Cold Atoms Meet High Energy Physics*,” in June, 2015 @ Trento, Italy
 
-7. “Nambu-Goldstone Fermion Mode in Quark-Gluon Plasma and Bose-Fermi Cold Atom System”  
+7. “Nambu-Goldstone Fermion Mode in Quark-Gluon Plasma and Bose-Fermi Cold Atom System”,  
 “*Intersection Between QCD and Condensed Matter*”, in March, 2015 @ Schladming, Austria
 
-8. “Photon and Dilepton Production in Semi-QGP and its effect on elliptic flow”  
+8. “Photon and Dilepton Production in Semi-QGP and its effect on elliptic flow”,  
 “*Frontiers of Hadronic Physics: Brains circulate Three*,” in February, 2015 @ BNL, US
 
-9. “Photon and Dilepton Production in Semi-QGP and its effect on elliptic flow”  
+9. “Photon and Dilepton Production in Semi-QGP and its effect on elliptic flow”,  
 “*Strong and Electroweak Matter (SEWM) 14*,” in July, 2014 @ Lausanne, Switzerland
 
-10. “(Quasi-) Nambu-Goldstone Fermion in Hot QCD Plasma and Bose-Fermi Cold Atom System”  
+10. “(Quasi-) Nambu-Goldstone Fermion in Hot QCD Plasma and Bose-Fermi Cold Atom System”,  
 “*NFQCD 2013*”, in November, 2013 @ Kyoto, Japan
 
-11. “Ultrasoft Fermion Mode at Finite Temperature and Density”   
+11. “Ultrasoft Fermion Mode at Finite Temperature and Density”,   
 “*Frontiers of Hadronic Physics: Brain Circulation Kick off Workshop*”, in March, 2013 @ BNL, US
 
-12. “Ultrasoft Fermionic Mode in Hot QCD”  
+12. “Ultrasoft Fermionic Mode in Hot QCD”,  
 “*Quark Gluon Plasma meets Cold Atoms - Episode III*”, in August, 2012 @ Hirschegg, Austria
 
 13. “Fermion spectrum at ultrasoft region in a hot QED/QCD plasma”, 
 “*The 19th Particles and Nuclei International Conference (PANIC11)*” in July, 2011 @ Boston, US
 
-14. “Spectral function of a fermion coupled with a massive vector particle at finite temperature— analysis on gauge dependence in the Stueckelberg formalism”  
+14. “Spectral function of a fermion coupled with a massive vector particle at finite temperature— analysis on gauge dependence in the Stueckelberg formalism”,  
 “*Third Joint Meeting of the Nuclear Physics Divisions of the APS and JPS*” in October, 2009 @ Hawaii, US
 
 15. “Photon and Dilepton Production in Semi-QGP and its Effect on v2” (*poster*)  
@@ -115,13 +176,13 @@ Y. Hidaka, S. Lin, R. D. Pisarski, <ins>D. Satow</ins> and V. V. Skokov, Nucl. P
 1. “高温における新たな摂動理論の展開とそれに基づく超ソフトなフェルミオン的集団励起の解明” (**招待講演**)  
 佐藤大輔、”*日本物理学会 2015 年秋季大会*”　2015年9月 @ 大阪市立大学
 
-2. “Nambu-Goldstone Fermion in Quark-Gluon Plasma and Bose-Fermi Cold Atom System”  
+2. “Nambu-Goldstone Fermion in Quark-Gluon Plasma and Bose-Fermi Cold Atom System”,  
 佐藤大輔、”*熱場の量子論とその応用*”　2014年9月 ＠ 理研
 
 3. “Ultrasoft fermion mode at finite density” (*ポスター発表*)  
 佐藤大輔、”*2012年度GCOEシンポジウム*”　2013年2月 @ 京都大学
 
-4. "高温QCDにおける一般化された運動論的方程式およびn点関数の解析"  
+4. "高温QCDにおける一般化された運動論的方程式およびn点関数の解析",  
 佐藤大輔、日高義将、”*日本物理学会　第67回年次大会*”　2012年3月 @ 関西学院大学
 
 5. “Generalized kinetic theory describing ultrasoft fermionic mode” (*ポスター発表*)  
@@ -130,22 +191,22 @@ Y. Hidaka, S. Lin, R. D. Pisarski, <ins>D. Satow</ins> and V. V. Skokov, Nucl. P
 6. “Novel kinetic theory describing ultrasoft fermionic mode” (*ポスター発表*)  
 佐藤大輔、”*熱場の量子論とその応用*”　2011年8月 @ 基礎物理学研究所
 
-7. “低エネルギーフェルミオン的励起を記述する運動学的方程式”  
+7. “低エネルギーフェルミオン的励起を記述する運動学的方程式”,  
 佐藤大輔、日高義将、”*日本物理学会　2011年秋季大会*”、2011年9月 @ 弘前大学
 
-8. “超高温QED/QCDにおける新しいフェルミオンモードの性質およびそのゲージ依存性”  
+8. “超高温QED/QCDにおける新しいフェルミオンモードの性質およびそのゲージ依存性”,  
 佐藤大輔、日高義将、国広悌二、“*日本物理学会　第66回年次大会*”、2011年3月 @ 新潟大学
 
 9. “Novel ultrasoft fermionic mode in QED/QCD plasma at high temperature” (*ポスター発表*)  
 佐藤大輔、“*2010年度GCOEシンポジウム*”、2011年2月 @ 京都大学
 
-10. “改善された摂動論によるフェルミオン的ソフトモードの解析”  
+10. “改善された摂動論によるフェルミオン的ソフトモードの解析”,  
 日高義将、佐藤大輔、国広悌二、“*日本物理学会　2010年秋季大会*”、2010年9月 @ 九州工業大学
 
 11. “Analysis of fermionic soft mode with resummed perturbation theory” (*ポスター発表*)  
 佐藤大輔、“*熱場の量子論とその応用*”、2010年8月 @ 基礎物理学研究所
 
-12. “質量を持つベクトル粒子と結合したフェルミオンの有限温度におけるスペクトル関数ー 3 ピーク構造のゲージ非依存性”  
+12. “質量を持つベクトル粒子と結合したフェルミオンの有限温度におけるスペクトル関数ー 3 ピーク構造のゲージ非依存性”,  
 佐藤大輔、日高義将、国広悌二、“*日本物理学会 第 65 回年次大会*”、2010年3月 @ 岡山大学
 
 13. “Spectral function of a fermion coupled with a massive vector boson at finite temperature” (*ポスター発表*)  
