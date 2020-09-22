@@ -39,16 +39,13 @@
 
 ## Invited seminars
 
-1. “Nambu-Goldstone mode for supersymmetry breaking in QCD and Bose-Fermi cold atom system at BEC phase”  
-    - Keio Univ., Japan.
-    - September 2017
+1. “Nambu-Goldstone mode for supersymmetry breaking in QCD and Bose-Fermi cold atom system at BEC phase”, September 2017 @ Keio Univ., Japan.
 
 2. “Viscosities and electrical conductivity of QGP in strong magnetic fields”, May 2017 @ RIKEN, Japan.
 
 3. “Transport coefficients of QGP in strong magnetic fields”, May 2017 @ university of Tokyo, Japan.
 
-4. “Spectral properties of the Goldstino in supersymmetric Bose-Fermi mixtures”,
-          November, 2015 @ BEC center, Trento, Italy.
+4. “Spectral properties of the Goldstino in supersymmetric Bose-Fermi mixtures”, November, 2015 @ BEC center, Trento, Italy.
 
 5. “クォーク・グルーオンプラズマおよび冷却原子系における南部・ゴールドストンフェルミオン” (Japanese), September, 2014 @ Tokyo Inst. of Tech.
 
@@ -56,17 +53,12 @@
 
 7. “クォーク・グルーオンプラズマ中の非線形電流応答” (Japanese), September, 2014 @ YITP.
 
-8. “Nambu-Goldstone fermion in hot QED/QCD plasma and Bose-Fermi Cold Atom System”, 
-        February 2014 @ University of Maryland, US.
+8. “Nambu-Goldstone fermion in hot QED/QCD plasma and Bose-Fermi Cold Atom System”, February 2014 @ University of Maryland, US.
 
-9. “Nambu-Goldstone fermion in QGP and Cold Atom”, 
-        October, 2013 @ University of Illinois at Chicago, US.
+9. “Nambu-Goldstone fermion in QGP and Cold Atom”, October, 2013 @ University of Illinois at Chicago, US.
 
-10. “Ultrasoft Fermion Mode in Hot or Dense Boson-Fermion System”
-        November, 2012 @RIKEN
+10. “Ultrasoft Fermion Mode in Hot or Dense Boson-Fermion System”, November, 2012 @ RIKEN
 
-11. “Novel Ultrasoft Fermionic Excitation in QED/QCD Plasma at High Temperature” 
-December, 2011 @ university of Tokyo.
+11. “Novel Ultrasoft Fermionic Excitation in QED/QCD Plasma at High Temperature”, December, 2011 @ university of Tokyo.
 
-12. “高温フェルミオン・ボソン系における新しい低エネルギーフェルミオン的励起” (Japanese)
-August, 2011 @ Osaka university.
+12. “高温フェルミオン・ボソン系における新しい低エネルギーフェルミオン的励起” (Japanese), August, 2011 @ Osaka university.
