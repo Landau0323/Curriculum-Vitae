@@ -57,7 +57,7 @@
 ### 物理関係
 20本の原著論文、1本のレビュー論文を国際誌から出版。  
 [論文リスト（物理）](http://inspirehep.net/search?ln=ja&p=find+a+d.+satow&of=hb&action_search=%E6%A4%9C%E7%B4%A2)  
-詳しくは[こちら](https://landau0323.github.io/Curriculum-Vitae/PHYSICS.md)を参照。
+詳しくは[こちら](https://landau0323.github.io/Curriculum-Vitae/PHYSICS)を参照。
 
 ## 特許
 ### 画像採寸関係
@@ -78,7 +78,8 @@
 - SSII2020(ポスター発表): インタラクティブセッション IS3-08「画像および3D点群を用いた人体寸法・3D形状推定」中野 嵩士、佐藤 大輔、八登 浩紀
 
 ### 物理関係
-to be updated...
+...回の国内学会、...回の国際学会での発表経験あり。  
+詳しくは[こちら](https://landau0323.github.io/Curriculum-Vitae/PHYSICS)を参照。
 
 ## エンジニアリング以外での職務上の貢献
 - 知人の物理研究者・エンジニア4名を勧誘し、エンジニアとしてレファラル採用した。
