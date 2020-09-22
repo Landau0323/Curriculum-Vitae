@@ -1,4 +1,5 @@
-**This page is on my research acticity in theoretical physics.**
+**This page is on my research acticity in theoretical physics.**  
+You can go back to my [CV](https://landau0323.github.io/Curriculum-Vitae/) if you want.
 
 # Research interests
 - Quark-Gluon plasma
