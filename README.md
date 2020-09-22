@@ -56,7 +56,8 @@
 
 ### 物理関係
 20本の原著論文、1本のレビュー論文を国際誌から出版。  
-[論文リスト（物理）](http://inspirehep.net/search?ln=ja&p=find+a+d.+satow&of=hb&action_search=%E6%A4%9C%E7%B4%A2)
+[論文リスト（物理）](http://inspirehep.net/search?ln=ja&p=find+a+d.+satow&of=hb&action_search=%E6%A4%9C%E7%B4%A2)  
+詳しくは[こちら](https://landau0323.github.io/Curriculum-Vitae/PHYSICS.md)を参照。
 
 ## 特許
 ### 画像採寸関係
