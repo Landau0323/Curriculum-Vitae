@@ -1,5 +1,4 @@
 ---
-layout: null
 title: CV of Daisuke Satow
 ---
 
