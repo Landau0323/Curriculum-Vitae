@@ -120,7 +120,7 @@ Prog. Part. Nucl. Phys. **106**, 1-67 (2019).
 ### Ones written in English
 1. "Exact Vector Channel Sum Rules at Finite Temperature,"  
 P. Gubler and <ins>D. Satow</ins>,
-JPS Conf. Proc. **26**, 024023 (2019)
+JPS Conf. Proc. **26**, 024023 (2019).
 
 1. “Exact sum rules for vector channel at finite temperature and their application to lattice QCD analysis”,  
 <ins>D. Satow</ins> and P. Gubler, 
