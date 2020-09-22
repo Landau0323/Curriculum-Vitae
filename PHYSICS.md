@@ -32,11 +32,67 @@
 # Presentations
 ## Ones at workshops/conferences
 ### International ones
-1. ...
+1. “Transport coefficients of quark-gluon plasma in strong magnetic fields”  
+“Strangeness and charm in hadrons and dense matter”, in May 2017 @ YITP, Japan
+
+2. “Exact QCD sum rules in vector channel and its application in lattice QCD”  
+“International School of Nuclear Physics 38th Course Nuclear matter under extreme conditions -Relativistic heavy-ion collisions”, in September, 2016 @ Erice, Italy
+
+3. “Exact sum rules for vector channel at finite temperature and their application to lattice QCD analysis”  
+“XIIth Quark Confinement and the Hadron Spectrum”, in August, 2016 @ Thessaloniki, Greece
+
+4. “Chiral symmetry breaking and confinement effects on dilepton and photon production and their elliptic flow”  
+“New perspectives on Photons and Dileptons in Ultrarelativistic Heavy-Ion Collisions at RHIC and LHC”, in November, 2015 @ ECT*, Trento, Italy
+
+5. “Chiral symmetry breaking and confinement effects on dilepton and photon production in heavy ion collision”  
+“Selected topics in the physics of the Quark Gluon Plasma and Ultrarelativistic Heavy Ion Collisions”, in September, 2015 @ YITP, Japan
+
+6. “Fermionic Nambu-Goldstone mode and (quasi-) supersymmetry breaking at finite temperature in QCD and cold atoms”  
+“Cold Atoms Meet High Energy Physics,” in June, 2015 @ Trento, Italy
+
+7. “Nambu-Goldstone Fermion Mode in Quark-Gluon Plasma and Bose-Fermi Cold Atom System”  
+“Intersection Between QCD and Condensed Matter”, in March, 2015 @ Schladming, Austria
+
+8. “Photon and Dilepton Production in Semi-QGP and its effect on elliptic flow”  
+“Frontiers of Hadronic Physics: Brains circulate Three,” in February, 2015 @ BNL, US
+
+9. “Photon and Dilepton Production in Semi-QGP and its effect on elliptic flow”  
+“Strong and Electroweak Matter (SEWM) 14,” in July, 2014 @ Lausanne, Switzerland
+
+ “(Quasi-) Nambu-Goldstone Fermion in Hot QCD Plasma and Bose-Fermi Cold Atom System”
+“NFQCD 2013”, in November, 2013 @ Kyoto, Japan
+
+“Ultrasoft Fermion Mode at Finite Temperature and Density”, 
+          “Frontiers of Hadronic Physics: Brain Circulation Kick off Workshop”, in March, 2013 @ BNL, US.
+
+“Ultrasoft Fermionic Mode in Hot QCD”,
+ D. Satow, Y. Hidaka, T. Kunihiro, “Quark Gluon Plasma meets Cold Atoms - Episode III”, in August, 2012 @ Hirschegg, Austria.
+
+“Fermion spectrum at ultrasoft region in a hot QED/QCD plasma”, 
+Y. Hidaka, D. Satow, “The 19th Particles and Nuclei International Conference (PANIC11)” in July, 2011 @ Boston, US. 
+“Spectral function of a fermion coupled with a massive vector particle at finite temperature— analysis on gauge dependence in the Stueckelberg formalism”, 
+D. Satoh, Y. Hidaka, T. Kunihiro, “Third Joint Meeting of the Nuclear Physics Divisions of the APS and JPS” in October, 2009 @ Hawaii, US.
+
+“Photon and Dilepton Production in Semi-QGP and its Effect on v2,”(poster)
+        “XQCD14”, in June, 2014 @ Stony Brook, US.        
+
+“Quasi-Nambu-Goldstone fermion in QGP and cold atom system”(poster),
+         “XQCD13”, in August, 2013 @ Bern, Switzerland.
+
+“Ultrasoft Fermionic Mode in hot gauge theories” (poster), 
+D. Satow, “The 10th International Conference on Strong & Electroweak Matter” in July, 2012 @ Swansea, UK.
+
+“Generalized Boltzmann equation in ultrasoft region” (poster), 
+D. Satow, “Relaxation, Turbulence, and Non-Equilibrium Dynamics of Matter Fields - RETUNE 2012 -” in June, 2012 @ Heidelberg, Germany.
+
+“Ultrasoft Fermionic Mode in QED and QCD plasmas” (poster), 
+Y. Hidaka, D. Satow, “Quark Matter 2011” in May, 2011 @ Annecy, France.  
+“Anomalous spectral function of a fermion coupled with a massive vector particle at finite temperature - Persistence of a three-peak structure” (poster), 
+D. Satoh, “New Frontiers in QCD 2010” in March, 2010 @ Kyoto, Japan.
 
 ### Domestic ones
 1. “高温における新たな摂動理論の展開とそれに基づく超ソフトなフェルミオン的集団励起の解明” (**招待講演**)  
-佐藤大輔、”日本物理学会 2015 年秋季大会”　2015年9月 @ 大阪市立大学。 
+佐藤大輔、”日本物理学会 2015 年秋季大会”　2015年9月 @ 大阪市立大学
 
 2. “Nambu-Goldstone Fermion in Quark-Gluon Plasma and Bose-Fermi Cold Atom System”  
 佐藤大輔、”熱場の量子論とその応用”　2014年9月 ＠ 理研
