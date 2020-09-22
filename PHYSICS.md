@@ -41,21 +41,29 @@ Phys. Rev. D **94**, 114032 (2016).
 [arXiv:1610.06818 [hep-ph]](https://arxiv.org/abs/1610.06818)
 
 1. “Exact vector channel sum rules at finite temperature and their applications to lattice QCD”,  
-P. Gubler, <ins>D. Satow</ins>, Phys. Rev. D **94**, 094042 (2016).
-{arXiv:1602.08265 [hep-ph]}.
+P. Gubler, <ins>D. Satow</ins>, 
+Phys. Rev. D **94**, 094042 (2016).
+[arXiv:1602.08265 [hep-ph]](https://arxiv.org/abs/1602.08265)
 
-“Spectral properties of the Goldstino in supersymmetric Bose-Fermi mixtures”,
-          J. P. Blaizot, Y. Hidaka, D. Satow, Phys. Rev. A 92, 063629 (2015). {arXiv:1510.06525 [cond-mat.quant-gas]}.
+1. “Spectral properties of the Goldstino in supersymmetric Bose-Fermi mixtures”,  
+J. P. Blaizot, Y. Hidaka, <ins>D. Satow</ins>, 
+Phys. Rev. A **92**, 063629 (2015).
+[arXiv:1510.06525 [cond-mat.quant-gas]](https://arxiv.org/abs/1510.06525)
 
-“Chiral symmetry breaking and confinement effects on dilepton and photon production around Tc”,
-           D. Satow, W. Weise, Phys.Rev. D 92, 056001 (2015)  {arXiv:1505.03869 [hep-ph]}.
+1. “Chiral symmetry breaking and confinement effects on dilepton and photon production around Tc”,  
+<ins>D. Satow</ins>, W. Weise, 
+Phys.Rev. D **92**, 056001 (2015).
+[arXiv:1505.03869 [hep-ph]](https://arxiv.org/abs/1505.03869)
 
-“Dilepton and photon production in the presence of a nontrivial Polyakov loop”, 
-          Y. Hidaka, S. Lin, R. D. Pisarski, D. Satow, JHEP 10, 005 (2015) {arXiv:1504.01770 [hep-ph]}.
+1. “Dilepton and photon production in the presence of a nontrivial Polyakov loop”,  
+Y. Hidaka, S. Lin, R. D. Pisarski, <ins>D. Satow</ins>, 
+JHEP **10**, 005 (2015).
+[arXiv:1504.01770 [hep-ph]](https://arxiv.org/abs/1504.01770)
 
-“Production and Elliptic Flow of Dileptons and Photons in the semi-Quark Gluon Plasma,”
-          C. Gale, Y. Hidaka, S. Jeon, S. Lin, J-F. Paquet, R. D. Pisarski, D. Satow, V. Skokov, G. Vujanovic,     
-          Phys. Rev. Lett. 114, 072301 (2015) {arXiv:1409.4778 [hep-ph]}.
+1. “Production and Elliptic Flow of Dileptons and Photons in the semi-Quark Gluon Plasma,”  
+C. Gale, Y. Hidaka, S. Jeon, S. Lin, J-F. Paquet, R. D. Pisarski, <ins>D. Satow</ins>, V. Skokov, G. Vujanovic,     
+Phys. Rev. Lett. **114**, 072301 (2015).
+[arXiv:1409.4778 [hep-ph]](https://arxiv.org/abs/1409.4778)
     
 “Nonlinear electromagnetic response in quark-gluon plasma,”
          D. Satow, Phys.Rev. D 90, 034018 (2014) {arXiv:1406.7032 [hep-ph]}.
