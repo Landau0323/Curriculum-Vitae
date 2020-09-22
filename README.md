@@ -1,6 +1,4 @@
-layout: page
-title: "CV of Daisuke Satow"
-permalink: /README/
+
 
 # 職務経歴書
 
