@@ -11,11 +11,11 @@ H. Tajima, Y. Hidaka and <ins>D. Satow</ins>,
 [arXiv:2001.08507 [cond-mat.quant-gas]](https://arxiv.org/abs/2001.08507)
 
 1. “Finite temperature sum rules in the vector channel at finite momentum”,  
-P. Gubler and <ins>D. Satow</ins>, Phys. Rev. D **96**, 114028 (2017).
+P. Gubler and <ins>D. Satow</ins>, Phys. Rev. D **96**, 114028 (2017).  
 [arXiv:1710.02256 [hep-ph]](https://arxiv.org/abs/1710.02256)
 
-2. “Bulk Viscosity of Quark-Gluon Plasma in Strong Magnetic Fields”,  
-K. Hattori, X. G. Huang, D. H. Rischke, <ins>D. Satow</ins>, Phys. Rev. D **96**, 094009 (2017).
+1. “Bulk Viscosity of Quark-Gluon Plasma in Strong Magnetic Fields”,  
+K. Hattori, X. G. Huang, D. H. Rischke, <ins>D. Satow</ins>, Phys. Rev. D **96**, 094009 (2017).  
 [arXiv:1708.00515 [hep-ph]](https://arxiv.org/abs/1708.00515) 
 
 “Goldstino in supersymmetric Bose-Fermi mixtures in the presence of Bose Einstein condensate”,
@@ -85,25 +85,35 @@ Prog. Part. Nucl. Phys. **106**, 1-67 (2019).
 
 ## Proceedings
 ### Ones written in English
+1. "Exact Vector Channel Sum Rules at Finite Temperature,"
+P. Gubler and <ins>D. Satow</ins>,
+JPS Conf. Proc. **26**, 024023 (2019)
+
 1. “Exact sum rules for vector channel at finite temperature and their application to lattice QCD analysis”,  
-<ins>D. Satow</ins> and P. Gubler, EPJ Web Conf. **137**, 07022 (2017).
+<ins>D. Satow</ins> and P. Gubler, 
+EPJ Web Conf. **137**, 07022 (2017).
 
 2. “Production of dilepton/photon in semi-quark gluon plasma”,  
-Y. Hidaka, S. Lin, R. D. Pisarski, <ins>D. Satow</ins> and V. V. Skokov, Nucl. Phys. A **931**, 681 (2014).
+Y. Hidaka, S. Lin, R. D. Pisarski, <ins>D. Satow</ins> and V. V. Skokov, 
+Nucl. Phys. A **931**, 681 (2014).
 
 3. “Fermion Spectrum at Ultrasoft Region in a Hot QED/QCD Plasma”,  
-<ins>D. Satow</ins> and Y. Hidaka, AIP Conf. Proc. **1441**, 791 (2012).   
+<ins>D. Satow</ins> and Y. Hidaka, 
+AIP Conf. Proc. **1441**, 791 (2012).   
 [arXiv:1109.0088 [hep-ph]](https://arxiv.org/abs/1109.0088)
 
 ### Ones written in Japanese
 1. “Novel Kinetic Theory Describing Ultrasoft Fermionic Mode” (*Japanese*)  
-<ins>佐藤大輔</ins>、日高義将、『素粒子論研究（電子版）』、**11**, 1, 152 (2012)
+<ins>佐藤大輔</ins>、日高義将、
+『素粒子論研究（電子版）』、**11**, 1, 152 (2012)
 
 2. “Analysis of fermionic soft mode with resummed perturbation theory” (*Japanese*)  
-<ins>佐藤大輔</ins>、日高義将、国広悌二、『素粒子論研究』、**118-4**、pp. D113―D115 (2011)
+<ins>佐藤大輔</ins>、日高義将、国広悌二、
+『素粒子論研究』、**118-4**、pp. D113―D115 (2011)
 
 3. “Spectral Function of a Fermion Coupled with Massive Vector Particle at Finite Temperature” (*Japanese*)   
-<ins>佐藤大輔</ins>、日高義将、国広悌二、『素粒子論研究』、**118-1**、pp. A161―A163 (2010)
+<ins>佐藤大輔</ins>、日高義将、国広悌二、
+『素粒子論研究』、**118-1**、pp. A161―A163 (2010)
 
 
 ## Thesis
