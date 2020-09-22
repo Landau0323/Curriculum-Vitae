@@ -91,14 +91,18 @@ Phys. Rev. D **87**, 096011 (2013).
 
 1. “Off-diagonal kinetic theory in ultrasoft momentum region at high temperature,”  
 <ins>D. Satow</ins>, Y. Hidaka, 
-Phys. Rev. D 85, 116009 (2012) [arXiv:1204.6532 [hep-ph]].
+Phys. Rev. D **85**, 116009 (2012).  
+[arXiv:1204.6532 [hep-ph]](https://arxiv.org/abs/1204.6532)
 
-“Ultrasoft Fermionic Modes at High Temperature,”
-Y. Hidaka, D. Satow and T. Kunihiro, Nucl. Phys. A 876, 93 (2012) [arXiv:1111.5015 [hep-ph]]. 
-“Spectral Function of Fermion Coupled with Massive Vector Boson at Finite Temperature in Gauge Invariant Formalism”, 
-D. Satow, Y. Hidaka and T. Kunihiro, Phys. Rev. D 83, 045017 (2011) [arXiv:1011.6452 [hep-ph]].
+1. “Ultrasoft Fermionic Modes at High Temperature,”  
+Y. Hidaka, <ins>D. Satow</ins> and T. Kunihiro, 
+Nucl. Phys. A **876**, 93 (2012).  
+[arXiv:1111.5015 [hep-ph]](https://arxiv.org/abs/1111.5015)
 
-
+1. “Spectral Function of Fermion Coupled with Massive Vector Boson at Finite Temperature in Gauge Invariant Formalism”,  
+<ins>D. Satow</ins>, Y. Hidaka and T. Kunihiro, 
+Phys. Rev. D **83**, 045017 (2011).  
+[arXiv:1011.6452 [hep-ph]](https://arxiv.org/abs/1011.6452)
 
 
 ## Review articles
