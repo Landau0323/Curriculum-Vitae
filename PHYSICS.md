@@ -11,27 +11,38 @@ H. Tajima, Y. Hidaka and <ins>D. Satow</ins>,
 [arXiv:2001.08507 [cond-mat.quant-gas]](https://arxiv.org/abs/2001.08507)
 
 1. “Finite temperature sum rules in the vector channel at finite momentum”,  
-P. Gubler and <ins>D. Satow</ins>, Phys. Rev. D **96**, 114028 (2017).  
+P. Gubler and <ins>D. Satow</ins>, 
+Phys. Rev. D **96**, 114028 (2017).  
 [arXiv:1710.02256 [hep-ph]](https://arxiv.org/abs/1710.02256)
 
 1. “Bulk Viscosity of Quark-Gluon Plasma in Strong Magnetic Fields”,  
-K. Hattori, X. G. Huang, D. H. Rischke, <ins>D. Satow</ins>, Phys. Rev. D **96**, 094009 (2017).  
+K. Hattori, X. G. Huang, D. H. Rischke, <ins>D. Satow</ins>, 
+Phys. Rev. D **96**, 094009 (2017).  
 [arXiv:1708.00515 [hep-ph]](https://arxiv.org/abs/1708.00515) 
 
-“Goldstino in supersymmetric Bose-Fermi mixtures in the presence of Bose Einstein condensate”,
-           J. P. Blaizot, Y. Hidaka, D. Satow, Phys. Rev. A 96, 063617 (2017) {arXiv:1707.05634 [cond-mat.quant-gas]}.
+1. “Goldstino in supersymmetric Bose-Fermi mixtures in the presence of Bose Einstein condensate”,  
+J. P. Blaizot, Y. Hidaka, <ins>D. Satow</ins>, 
+Phys. Rev. A **96**, 063617 (2017).  
+[arXiv:1707.05634 [cond-mat.quant-gas]](https://arxiv.org/abs/1707.05634).
 
-“Gluon Spectrum in Quark-Gluon Plasma under Strong Magnetic Fields”,
-          K. Hattori, D. Satow, Phys. Rev. D 97, 014023 (2018) {arXiv:1704.03191 [hep-ph]}.
+1. “Gluon Spectrum in Quark-Gluon Plasma under Strong Magnetic Fields”,  
+K. Hattori, <ins>D. Satow</ins>, 
+Phys. Rev. D **97**, 014023 (2018).  
+[arXiv:1704.03191 [hep-ph]](https://arxiv.org/abs/1704.03191).
 
-“Longitudinal Conductivity in Strong Magnetic Field in Perturbative QCD: Complete Leading Order”, 
-          K. Hattori, S. Li, D. Satow, H.-U. Yee, Phys. Rev. D 95, 076008 (2017) {arXiv: 1610.06839 [hep-ph]}.
+1. “Longitudinal Conductivity in Strong Magnetic Field in Perturbative QCD: Complete Leading Order”,  
+K. Hattori, S. Li, <ins>D. Satow</ins>, H.-U. Yee, 
+Phys. Rev. D **95**, 076008 (2017).  
+[arXiv: 1610.06839 [hep-ph]](https://arxiv.org/abs/1610.06839).
 
-“Electrical Conductivity of Quark-Gluon Plasma in Strong Magnetic Fields”, 
-          K. Hattori, D. Satow, Phys. Rev. D 94, 114032 (2016) {arXiv:1610.06818 [hep-ph]}
+1. “Electrical Conductivity of Quark-Gluon Plasma in Strong Magnetic Fields”,  
+K. Hattori, <ins>D. Satow</ins>, 
+Phys. Rev. D **94**, 114032 (2016).  
+[arXiv:1610.06818 [hep-ph]](https://arxiv.org/abs/1610.06818)
 
-“Exact vector channel sum rules at finite temperature and their applications to lattice QCD”,
-          P. Gubler, D. Satow, Phys. Rev. D 94, 094042 (2016). {arXiv:1602.08265 [hep-ph]}.
+1. “Exact vector channel sum rules at finite temperature and their applications to lattice QCD”,  
+P. Gubler, <ins>D. Satow</ins>, Phys. Rev. D **94**, 094042 (2016).
+{arXiv:1602.08265 [hep-ph]}.
 
 “Spectral properties of the Goldstino in supersymmetric Bose-Fermi mixtures”,
           J. P. Blaizot, Y. Hidaka, D. Satow, Phys. Rev. A 92, 063629 (2015). {arXiv:1510.06525 [cond-mat.quant-gas]}.
