@@ -33,7 +33,7 @@
 ## Ones at workshops/conferences
 ### International ones
 1. “Transport coefficients of quark-gluon plasma in strong magnetic fields”  
-“Strangeness and charm in hadrons and dense matter”, in May 2017 @ YITP, Japan
+“*Strangeness and charm in hadrons and dense matter*”, in May 2017 @ YITP, Japan
 
 2. “Exact QCD sum rules in vector channel and its application in lattice QCD”  
 “International School of Nuclear Physics 38th Course Nuclear matter under extreme conditions -Relativistic heavy-ion collisions”, in September, 2016 @ Erice, Italy
@@ -92,46 +92,46 @@ D. Satoh, “New Frontiers in QCD 2010” in March, 2010 @ Kyoto, Japan.
 
 ### Domestic ones
 1. “高温における新たな摂動理論の展開とそれに基づく超ソフトなフェルミオン的集団励起の解明” (**招待講演**)  
-佐藤大輔、”日本物理学会 2015 年秋季大会”　2015年9月 @ 大阪市立大学
+佐藤大輔、”*日本物理学会 2015 年秋季大会*”　2015年9月 @ 大阪市立大学
 
 2. “Nambu-Goldstone Fermion in Quark-Gluon Plasma and Bose-Fermi Cold Atom System”  
-佐藤大輔、”熱場の量子論とその応用”　2014年9月 ＠ 理研
+佐藤大輔、”*熱場の量子論とその応用*”　2014年9月 ＠ 理研
 
-3. “Ultrasoft fermion mode at finite density” (ポスター発表)  
-佐藤大輔、”2012年度GCOEシンポジウム”　2013年2月 @ 京都大学
+3. “Ultrasoft fermion mode at finite density” (*ポスター発表*)  
+佐藤大輔、”*2012年度GCOEシンポジウム*”　2013年2月 @ 京都大学
 
 4. "高温QCDにおける一般化された運動論的方程式およびn点関数の解析"  
-佐藤大輔、日高義将、”日本物理学会　第67回年次大会”　2012年3月 @ 関西学院大学
+佐藤大輔、日高義将、”*日本物理学会　第67回年次大会*”　2012年3月 @ 関西学院大学
 
-5. “Generalized kinetic theory describing ultrasoft fermionic mode” (ポスター発表)  
-佐藤大輔、”2011年度GCOEシンポジウム”　2012年2月 @ 京都大学　
+5. “Generalized kinetic theory describing ultrasoft fermionic mode” (*ポスター発表*)  
+佐藤大輔、”*2011年度GCOEシンポジウム*”　2012年2月 @ 京都大学　
 
-6. “Novel kinetic theory describing ultrasoft fermionic mode” (ポスター発表)  
-佐藤大輔、”熱場の量子論とその応用”　2011年8月 @ 基礎物理学研究所
+6. “Novel kinetic theory describing ultrasoft fermionic mode” (*ポスター発表*)  
+佐藤大輔、”*熱場の量子論とその応用*”　2011年8月 @ 基礎物理学研究所
 
 7. “低エネルギーフェルミオン的励起を記述する運動学的方程式”  
-佐藤大輔、日高義将、”日本物理学会　2011年秋季大会”、2011年9月 @ 弘前大学
+佐藤大輔、日高義将、”*日本物理学会　2011年秋季大会*”、2011年9月 @ 弘前大学
 
 8. “超高温QED/QCDにおける新しいフェルミオンモードの性質およびそのゲージ依存性”  
-佐藤大輔、日高義将、国広悌二、“日本物理学会　第66回年次大会”、2011年3月 @ 新潟大学
+佐藤大輔、日高義将、国広悌二、“*日本物理学会　第66回年次大会*”、2011年3月 @ 新潟大学
 
-9. “Novel ultrasoft fermionic mode in QED/QCD plasma at high temperature” (ポスター発表)  
-佐藤大輔、“2010年度GCOEシンポジウム”、2011年2月 @ 京都大学
+9. “Novel ultrasoft fermionic mode in QED/QCD plasma at high temperature” (*ポスター発表*)  
+佐藤大輔、“*2010年度GCOEシンポジウム*”、2011年2月 @ 京都大学
 
 10. “改善された摂動論によるフェルミオン的ソフトモードの解析”  
-日高義将、佐藤大輔、国広悌二、“日本物理学会　2010年秋季大会”、2010年9月 @ 九州工業大学
+日高義将、佐藤大輔、国広悌二、“*日本物理学会　2010年秋季大会*”、2010年9月 @ 九州工業大学
 
-11. “Analysis of fermionic soft mode with resummed perturbation theory” (ポスター発表)  
-佐藤大輔、“熱場の量子論とその応用”、2010年8月 @ 基礎物理学研究所
+11. “Analysis of fermionic soft mode with resummed perturbation theory” (*ポスター発表*)  
+佐藤大輔、“*熱場の量子論とその応用*”、2010年8月 @ 基礎物理学研究所
 
 12. “質量を持つベクトル粒子と結合したフェルミオンの有限温度におけるスペクトル関数ー 3 ピーク構造のゲージ非依存性”  
-佐藤大輔、日高義将、国広悌二、“日本物理学会 第 65 回年次大会”、2010年3月 @ 岡山大学
+佐藤大輔、日高義将、国広悌二、“*日本物理学会 第 65 回年次大会*”、2010年3月 @ 岡山大学
 
-13. “Spectral function of a fermion coupled with a massive vector boson at finite temperature” (ポスター発表)  
-佐藤大輔、“2009年度GCOE シンポジウム”、2010年2月 @ 京都大学
+13. “Spectral function of a fermion coupled with a massive vector boson at finite temperature” (*ポスター発表*)  
+佐藤大輔、“*2009年度GCOE シンポジウム*”、2010年2月 @ 京都大学
 
-14. “Spectral function of a fermion coupled with massive vector particle at finite temperature” (ポスター発表)  
-佐藤大輔、“熱場の量子論とその応用”、2009年9月 @ 基礎物理学研究所
+14. “Spectral function of a fermion coupled with massive vector particle at finite temperature” (*ポスター発表*)  
+佐藤大輔、“*熱場の量子論とその応用*”、2009年9月 @ 基礎物理学研究所
 
 ## Invited seminars
 
