@@ -39,9 +39,9 @@
 
 ## Invited seminars
 
-1. “Nambu-Goldstone mode for supersymmetry breaking in QCD and Bose-Fermi cold atom system at BEC phase”
-  - Keio Univ., Japan.
-  - September 2017
+1. “Nambu-Goldstone mode for supersymmetry breaking in QCD and Bose-Fermi cold atom system at BEC phase”  
+    - Keio Univ., Japan.
+    - September 2017
 
 2. “Viscosities and electrical conductivity of QGP in strong magnetic fields”, May 2017 @ RIKEN, Japan.
 
