@@ -1,6 +1,3 @@
----
-title: CV of Daisuke Satow
----
 
 # 職務経歴書
 
