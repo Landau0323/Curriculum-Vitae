@@ -42,46 +42,56 @@ Phys. Rev. D **94**, 114032 (2016).
 
 1. “Exact vector channel sum rules at finite temperature and their applications to lattice QCD”,  
 P. Gubler, <ins>D. Satow</ins>, 
-Phys. Rev. D **94**, 094042 (2016).
+Phys. Rev. D **94**, 094042 (2016).  
 [arXiv:1602.08265 [hep-ph]](https://arxiv.org/abs/1602.08265)
 
 1. “Spectral properties of the Goldstino in supersymmetric Bose-Fermi mixtures”,  
 J. P. Blaizot, Y. Hidaka, <ins>D. Satow</ins>, 
-Phys. Rev. A **92**, 063629 (2015).
+Phys. Rev. A **92**, 063629 (2015).  
 [arXiv:1510.06525 [cond-mat.quant-gas]](https://arxiv.org/abs/1510.06525)
 
 1. “Chiral symmetry breaking and confinement effects on dilepton and photon production around Tc”,  
 <ins>D. Satow</ins>, W. Weise, 
-Phys.Rev. D **92**, 056001 (2015).
+Phys.Rev. D **92**, 056001 (2015).  
 [arXiv:1505.03869 [hep-ph]](https://arxiv.org/abs/1505.03869)
 
 1. “Dilepton and photon production in the presence of a nontrivial Polyakov loop”,  
 Y. Hidaka, S. Lin, R. D. Pisarski, <ins>D. Satow</ins>, 
-JHEP **10**, 005 (2015).
+JHEP **10**, 005 (2015).  
 [arXiv:1504.01770 [hep-ph]](https://arxiv.org/abs/1504.01770)
 
 1. “Production and Elliptic Flow of Dileptons and Photons in the semi-Quark Gluon Plasma,”  
-C. Gale, Y. Hidaka, S. Jeon, S. Lin, J-F. Paquet, R. D. Pisarski, <ins>D. Satow</ins>, V. Skokov, G. Vujanovic,     
-Phys. Rev. Lett. **114**, 072301 (2015).
+C. Gale, Y. Hidaka, S. Jeon, S. Lin, J-F. Paquet, R. D. Pisarski, <ins>D. Satow</ins>, V. Skokov, G. Vujanovic, 
+Phys. Rev. Lett. **114**, 072301 (2015).  
 [arXiv:1409.4778 [hep-ph]](https://arxiv.org/abs/1409.4778)
     
-“Nonlinear electromagnetic response in quark-gluon plasma,”
-         D. Satow, Phys.Rev. D 90, 034018 (2014) {arXiv:1406.7032 [hep-ph]}.
+1. “Nonlinear electromagnetic response in quark-gluon plasma,”  
+<ins>D. Satow</ins>, 
+Phys.Rev. D **90**, 034018 (2014).  
+[arXiv:1406.7032 [hep-ph]](https://arxiv.org/abs/1406.7032)
 
-“Chiral Magnetic Effect at Weak Coupling with Relaxation Dynamics,”
-        D. Satow and H.-U. Yee, Phys.Rev. D 90, 014027 (2014) {arXiv:1406.1150 [hep-ph]}.
+1. “Chiral Magnetic Effect at Weak Coupling with Relaxation Dynamics,”  
+<ins>D. Satow</ins> and H.-U. Yee, 
+Phys.Rev. D **90**, 014027 (2014).  
+[arXiv:1406.1150 [hep-ph]](https://arxiv.org/abs/1406.1150)
 
-“Ultra-soft fermionic excitation at finite chemical potential,” 
-        J. P. Blaizot and D. Satow, Phys.Rev. D 89, 096001 (2014) {arXiv:1402.0241 [hep-ph]}.
+1. “Ultra-soft fermionic excitation at finite chemical potential,”  
+J. P. Blaizot and <ins>D. Satow</ins>, Phys.Rev. D **89**, 096001 (2014).  
+[arXiv:1402.0241 [hep-ph]](https://arxiv.org/abs/1402.0241)
 
-“Neutrino spectral density at electroweak scale temperature,”
-       K. Miura, Y. Hidaka, D. Satow, T. Kunihiro, Phys. Rev. D 88, 065024 (2013) {arXiv:1306.1701[hep-ph]}.
+1. “Neutrino spectral density at electroweak scale temperature,”  
+K. Miura, Y. Hidaka, <ins>D. Satow</ins>, T. Kunihiro, 
+Phys. Rev. D **88**, 065024 (2013).  
+[arXiv:1306.1701[hep-ph]](https://arxiv.org/abs/1306.1701)
 
-“Ultrasoft fermion mode and off-diagonal Boltzmann equation in quark-gluon plasma at high temperature,”
-       D. Satow, Phys. Rev. D 87, 096011 (2013) [arXiv:1303.2684 [hep-ph]]. 
+1. “Ultrasoft fermion mode and off-diagonal Boltzmann equation in quark-gluon plasma at high temperature,”  
+<ins>D. Satow</ins>, 
+Phys. Rev. D **87**, 096011 (2013).  
+[arXiv:1303.2684 [hep-ph]](https://arxiv.org/abs/1303.2684)
 
-“Off-diagonal kinetic theory in ultrasoft momentum region at high temperature,”
-D. Satow, Y. Hidaka, Phys. Rev. D 85, 116009 (2012) [arXiv:1204.6532 [hep-ph]].
+1. “Off-diagonal kinetic theory in ultrasoft momentum region at high temperature,”  
+<ins>D. Satow</ins>, Y. Hidaka, 
+Phys. Rev. D 85, 116009 (2012) [arXiv:1204.6532 [hep-ph]].
 
 “Ultrasoft Fermionic Modes at High Temperature,”
 Y. Hidaka, D. Satow and T. Kunihiro, Nucl. Phys. A 876, 93 (2012) [arXiv:1111.5015 [hep-ph]]. 
