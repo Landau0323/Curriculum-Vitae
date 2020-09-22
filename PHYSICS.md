@@ -13,11 +13,14 @@
 
 ## Review articles
 ### Ones written in English
-1. ...
+1. “Recent Progress in QCD Condensate Evaluations and Sum Rules“  
+P. Gubler and <ins>D. Satow</ins>, 
+Prog. Part. Nucl. Phys. **106**, 1-67 (2019).  
+[arXiv:1812.00385 [hep-ph]](https://arxiv.org/abs/1812.00385)
 
 ### Ones written in Japanese
-
-1. ...
+1. “高温における新たな摂動理論の展開と超ソフトなフェルミオン的集団励起の解明”（**招待原稿**）  
+<ins>佐藤大輔</ins>、『原子核研究』第60巻1号30ページ（2015年）
 
 ## Proceedings
 ### Ones written in English
