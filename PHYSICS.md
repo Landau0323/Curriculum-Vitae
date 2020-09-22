@@ -118,7 +118,7 @@ Prog. Part. Nucl. Phys. **106**, 1-67 (2019).
 
 ## Proceedings
 ### Ones written in English
-1. "Exact Vector Channel Sum Rules at Finite Temperature,"
+1. "Exact Vector Channel Sum Rules at Finite Temperature,"  
 P. Gubler and <ins>D. Satow</ins>,
 JPS Conf. Proc. **26**, 024023 (2019)
 
