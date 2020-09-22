@@ -12,23 +12,31 @@
 
 
 ## Review articles
+### Ones written in English
 1. ...
 
-2. ...
+### Ones written in Japanese
+
+1. ...
 
 ## Proceedings
+### Ones written in English
 1. ...
 
+### Ones written in Japanese
 2. ...
 
 ## Thesis
 - [“Diagrammatic and Kinetic Equation Analysis of Ultrasoft Fermionic Sector in Quark-Gluon Plasma”](https://arxiv.org/abs/1303.6698), for Doctor of Science (Kyoto university). 　　　　　　　　
 
-# Presentation at workshops/conferences
+# Presentations
+## Ones at workshops/conferences
+### International ones
 1. ...
 
-2. ...
+### Domestic ones
+1. ...
 
-# Invited seminars
+## Invited seminars
 
 1. ...
