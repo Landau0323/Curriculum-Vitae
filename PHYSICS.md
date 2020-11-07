@@ -184,13 +184,13 @@ AIP Conf. Proc. **1441**, 791 (2012).
 1. “Transport coefficients of quark-gluon plasma in strong magnetic fields”,  
 “*Strangeness and charm in hadrons and dense matter*”, in May 2017 @ YITP, Japan
 
-2. “Exact QCD sum rules in vector channel and its application in lattice QCD”,  
+2. [“Exact QCD sum rules in vector channel and its application in lattice QCD”](https://www.slideshare.net/daisukesatow9/exact-sum-rules-for-vector-channel-at-finite-temperature-and-its-applications-in-lattice-qcd-analysis),  
 “*International School of Nuclear Physics 38th Course Nuclear matter under extreme conditions -Relativistic heavy-ion collisions*”, in September, 2016 @ Erice, Italy
 
 3. “Exact sum rules for vector channel at finite temperature and their application to lattice QCD analysis”,  
 “*XIIth Quark Confinement and the Hadron Spectrum*”, in August, 2016 @ Thessaloniki, Greece
 
-4. “Chiral symmetry breaking and confinement effects on dilepton and photon production and their elliptic flow”,  
+4. [“Chiral symmetry breaking and confinement effects on dilepton and photon production and their elliptic flow”](https://www.slideshare.net/daisukesatow9/chiral-symmetry-breaking-and-confinement-effects-on-dilepton-and-photon-production-and-their-elliptic-flow),  
 “*New perspectives on Photons and Dileptons in Ultrarelativistic Heavy-Ion Collisions at RHIC and LHC*”, in November, 2015 @ ECT*, Trento, Italy
 
 5. “Chiral symmetry breaking and confinement effects on dilepton and photon production in heavy ion collision”,  
@@ -286,16 +286,16 @@ AIP Conf. Proc. **1441**, 791 (2012).
 
 ## Invited seminars
 
-1. “Nambu-Goldstone mode for supersymmetry breaking in QCD and Bose-Fermi cold atom system at BEC phase”,  
+1. [“Nambu-Goldstone mode for supersymmetry breaking in QCD and Bose-Fermi cold atom system at BEC phase”](https://www.slideshare.net/daisukesatow9/nambugoldstone-mode-for-supersymmetry-breaking-in-qcd-and-bosefermi-cold-atom-system-at-bec-phase),  
 September 2017 @ Keio Univ., Japan.
 
-2. “Viscosities and electrical conductivity of QGP in strong magnetic fields”,  
+2. [“Viscosities and electrical conductivity of QGP in strong magnetic fields”](https://www.slideshare.net/daisukesatow9/transport-coefficients-of-qgp-in-strong-magnetic-fields),  
 May 2017 @ RIKEN, Japan.
 
 3. “Transport coefficients of QGP in strong magnetic fields”,  
 May 2017 @ university of Tokyo, Japan.
 
-4. “Spectral properties of the Goldstino in supersymmetric Bose-Fermi mixtures”,  
+4. [“Spectral properties of the Goldstino in supersymmetric Bose-Fermi mixtures”](https://www.slideshare.net/daisukesatow9/spectral-properties-of-the-goldstino-in-supersymmetric-bosefermi-mixtures),  
 November, 2015 @ BEC center, Trento, Italy.
 
 5. “クォーク・グルーオンプラズマおよび冷却原子系における南部・ゴールドストンフェルミオン” (Japanese),  
