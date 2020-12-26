@@ -60,14 +60,6 @@
 ### プログラミング言語
 - 現在、業務で利用している
   - python
-    - 一般：numpy
-    - 機械学習：pandas, jupyter notebook, scikit-learn
-    - deep learning：tensorflow, keras
-    - ロボット制御：ROS
-      - ロボットアーム
-      - モバイルマニピュレーター
-    - 画像処理：OpenCV
-    - 3Dデータ処理：Open3D
 - 業務で使用したことのある言語
   - C++ 
     - paizaランキングS取得
@@ -100,9 +92,36 @@
 #### ユニットテスト
 - pytest
 #### カバレッジ
-- coverage
+- (coverage)
 #### CI
 - github action
+
+#### ロボット制御
+##### 対象のロボット
+- ロボットアーム
+- モバイルマニピュレーター
+
+##### フレームワーク
+- ROS
+- b-CAP
+
+#### ベクトル・行列計算
+- numpy
+
+#### 機械学習
+- pandas
+- jupyter notebook 
+- scikit-learn
+#### deep learning
+- (tensorflow)
+- keras
+- (pytorch)
+
+#### 画像処理
+- OpenCV
+#### 3Dデータ処理
+- Open3D
+
 
 ### 自然言語
 - 日本語
