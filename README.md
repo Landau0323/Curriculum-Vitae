@@ -66,6 +66,30 @@
   - FORTRAN
     - 物理で使う数値計算用
 
+### 業務で使ったことのあるツール・フレームワーク
+#### チャット
+- Slack
+#### ドキュメント共有・共同編集
+- google drive/document/sheet/slide
+#### プロジェクト管理
+- redmine
+
+#### レポジトリ管理
+- gitlab
+- github
+
+#### 開発フロー
+- github flow
+
+#### 仮想環境構築
+- Docker
+- poetry
+- pyenv
+#### ユニットテスト
+- pytest
+#### CI
+- github action
+
 ### 自然言語
 - 日本語
   - ネイティブ
