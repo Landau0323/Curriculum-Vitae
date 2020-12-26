@@ -59,7 +59,9 @@
 ### プログラミング言語
 - 現在、業務で利用している
   - python
-    - 機械学習：numpy, pandas, jupyter notebook, scikit-learn, tensorflow, keras
+    - 一般：numpy
+    - 機械学習：pandas, jupyter notebook, scikit-learn
+    - deep learning：tensorflow, keras
     - ロボット制御：ROS
       - ロボットアーム
       - モバイルマニピュレーター
@@ -96,6 +98,8 @@
 - pyenv
 #### ユニットテスト
 - pytest
+#### カバレッジ
+- coverage
 #### CI
 - github action
 
