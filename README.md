@@ -93,16 +93,37 @@
 #### 開発フロー
 - github flow
 
+#### IDE
+- PyCharm
+- VScode
+
 #### 仮想環境構築
 - Docker
 - poetry
 - pyenv
+
+#### ドキュメント自動生成
+- sphinx
+
+#### linter
+- pylint
+
+#### formatter
+- black
+- isort
+
 #### ユニットテスト
 - pytest
+- hypothesis
+
 #### カバレッジ
-- (coverage)
+- pytest-cov
+
 #### CI
 - github action
+
+#### 脆弱性のあるdependency管理
+- github dependabot
 
 #### ロボット制御
 ##### 対象のロボット
