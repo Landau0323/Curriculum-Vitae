@@ -117,6 +117,9 @@
 - black
 - isort
 
+#### 型チェック
+- mypy
+
 #### ユニットテスト
 - pytest
 - hypothesis
