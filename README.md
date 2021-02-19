@@ -100,8 +100,8 @@
 - github flow
 
 #### IDE
-- PyCharm
 - VScode
+- PyCharm
 
 #### 仮想環境構築
 - Docker
@@ -109,6 +109,7 @@
 - pyenv
 
 #### ドキュメント自動生成
+- mkdocs
 - sphinx
 
 #### linter
