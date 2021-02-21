@@ -34,6 +34,7 @@
 |Name|佐藤 大輔(さとう だいすけ)|
 |HP|https://landau0323.github.io/Curriculum-Vitae/|
 |mail|daisuke.sato0323@gmail.com|
+|twitter|[@Sato0323D](https://twitter.com/Sato0323D)|
 |slideshare|https://www.slideshare.net/daisukesatow9|
 
 
