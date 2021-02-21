@@ -140,9 +140,9 @@
 - [PyTorch geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
 
 #### 画像処理
-- OpenCV
+- [OpenCV](https://opencv.org/)
 #### 3Dデータ処理
-- Open3D
+- [Open3D](http://www.open3d.org/)
 
 
 ### 自然言語
