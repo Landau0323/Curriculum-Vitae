@@ -134,9 +134,10 @@
 - [jupyter notebook](https://jupyter.org/) 
 - [scikit-learn](https://scikit-learn.org/stable/)
 #### deep learning
-- (tensorflow)
-- keras
-- (pytorch)
+- ([tensorflow](https://www.tensorflow.org/?hl=ja))
+- [Keras](https://keras.io/ja/)
+- [PyTorch](https://pytorch.org/)
+- [PyTorch geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
 
 #### 画像処理
 - OpenCV
