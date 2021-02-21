@@ -84,36 +84,38 @@
 - [VSCode](https://code.visualstudio.com/)
 - [PyCharm](https://www.jetbrains.com/ja-jp/pycharm/)
 
-#### 仮想環境構築
+#### ソフトウェア開発一般に関係するツール
+
+##### 仮想環境構築
 - [Docker](https://www.docker.com/)
 - [poetry](https://python-poetry.org/)
 - [pyenv](https://github.com/pyenv/pyenv)
 
-#### ドキュメント自動生成
+##### ドキュメント自動生成
 - [mkdocs](https://www.mkdocs.org/)
 - [sphinx](https://www.sphinx-doc.org/ja/master/)
 
-#### linter
+##### linter
 - [pylint](https://www.pylint.org/)
 
-#### formatter
+##### formatter
 - [black](https://black.readthedocs.io/en/stable/)
 - [isort](https://pycqa.github.io/isort/)
 
-#### 型チェック
+##### 型チェック
 - [mypy](http://www.mypy-lang.org/)
 
-#### ユニットテスト
+##### ユニットテスト
 - [pytest](https://docs.pytest.org/en/stable/)
 - [hypothesis](https://hypothesis.readthedocs.io/en/latest/)
 
-#### カバレッジ
+##### カバレッジ
 - [pytest-cov](https://pytest-cov.readthedocs.io/en/latest/)
 
-#### CI
+##### CI
 - [github action](https://github.com/features/actions)
 
-#### 脆弱性のあるdependency管理
+##### 脆弱性のあるdependency管理
 - github dependabot
 
 #### ロボット制御
