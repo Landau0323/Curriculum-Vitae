@@ -73,8 +73,8 @@
 - [pyenv](https://github.com/pyenv/pyenv)
 
 #### ドキュメント自動生成
-- mkdocs
-- sphinx
+- [mkdocs](https://www.mkdocs.org/)
+- [sphinx](https://www.sphinx-doc.org/ja/master/)
 
 #### linter
 - pylint
