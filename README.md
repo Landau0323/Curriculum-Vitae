@@ -327,6 +327,6 @@ Nvidia
 - 旅行
   - 特に5年間外国（フランス・アメリカ・イタリア・ドイツ）に住んでいた時は、様々な街に行きました。	
 
-## 本経歴書の作成に参考にしたリンク
+###### 本経歴書の作成に参考にしたリンク
 - [okohs/Curriculum-Vitae-template](https://github.com/okohs/Curriculum-Vitae-template)
 																																																																																																							
