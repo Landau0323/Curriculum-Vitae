@@ -3,7 +3,8 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+<details>
+<summary>Table of Contents</summary>
 
 - [基本情報](#%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1)
 - [スキル](#%E3%82%B9%E3%82%AD%E3%83%AB)
@@ -57,6 +58,7 @@
 - [趣味](#%E8%B6%A3%E5%91%B3)
 - [本経歴書の作成に参考にしたリンク](#%E6%9C%AC%E7%B5%8C%E6%AD%B4%E6%9B%B8%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%AB%E5%8F%82%E8%80%83%E3%81%AB%E3%81%97%E3%81%9F%E3%83%AA%E3%83%B3%E3%82%AF)
 
+</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 基本情報

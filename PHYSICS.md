@@ -3,7 +3,8 @@ You can go back to my [CV](https://landau0323.github.io/Curriculum-Vitae/) if yo
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+<details>
+<summary>Table of Contents</summary>
 
 - [Research interests](#research-interests)
 - [Papers](#papers)
@@ -21,6 +22,7 @@ You can go back to my [CV](https://landau0323.github.io/Curriculum-Vitae/) if yo
     - [Domestic ones](#domestic-ones)
   - [Invited seminars](#invited-seminars)
 
+</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
