@@ -53,7 +53,8 @@
 #### ドキュメント共有・共同編集
 - [Google Workspace](https://workspace.google.co.jp/intl/ja/) (google drive/document/sheet/slide/gmail/calendar)
 #### プロジェクト管理
-- redmine
+- [redmine](https://redmine.jp/overview/)
+- [Jira](https://www.atlassian.com/ja/software/jira/features)
 
 #### レポジトリ管理
 - gitlab
