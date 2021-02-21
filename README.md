@@ -87,7 +87,7 @@
 - [isort](https://pycqa.github.io/isort/)
 
 #### 型チェック
-- mypy
+- [mypy](http://www.mypy-lang.org/)
 
 #### ユニットテスト
 - pytest
