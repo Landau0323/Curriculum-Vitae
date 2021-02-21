@@ -220,8 +220,9 @@
 - 顧客（製造業大手）の社員に対するAIレクチャーを2回実施(2019年10月)。内容は、semantic segmentationの理論的背景とビジョンピッキングロボットシステムでの活用、アノテーション作業実習、3Dデータ処理について。
 - 新入社員教育用の、研究開発部門全体にわたる技術資料の作成を監督、全部門への展開を行った。
 
-## 職務経歴
-### 2018/04 - : [Arithmer株式会社](https://arithmer.co.jp/)
+## 経歴
+### 職務経歴
+#### 2018/04 - : [Arithmer株式会社](https://arithmer.co.jp/)
 職務:
 画像認識・ロボット制御・機械学習関連の研究開発
 
@@ -277,9 +278,9 @@ CTO 兼 研究開発本部長
   - 使用技術: P型軌道の編集（3次元ベクトルおよび四元数の粗視化・スプライン補間）/python,bCapslavemove
   - 開発した軌道編集技術は1件特許取得済
 
-### 2016/03 - 2018/03: [Goethe Universität(ドイツ)](http://www.goethe-university-frankfurt.de/en?locale=en)
-### 2014/10 - 2016/02: [Fondazione Bruno Kessler(イタリア)](https://www.fbk.eu/en/)
-### 2013/04 - 2014/09: [理化学研究所(アメリカBrookhaven National Laboratory勤務)](http://www.riken.jp/)
+#### 2016/03 - 2018/03: [Goethe Universität(ドイツ)](http://www.goethe-university-frankfurt.de/en?locale=en)
+#### 2014/10 - 2016/02: [Fondazione Bruno Kessler(イタリア)](https://www.fbk.eu/en/)
+#### 2013/04 - 2014/09: [理化学研究所(アメリカBrookhaven National Laboratory勤務)](http://www.riken.jp/)
 
 職務:
 理論物理学（主として素粒子物理）の研究　
@@ -287,7 +288,7 @@ CTO 兼 研究開発本部長
 職階:
 ポスドク研究員
 
-## 学歴
+### 学歴
 
 |年|学校名||
 |---|-----|----|
