@@ -77,7 +77,7 @@
 - [sphinx](https://www.sphinx-doc.org/ja/master/)
 
 #### linter
-- pylint
+- [pylint](https://www.pylint.org/)
 
 #### formatter
 - black
