@@ -328,8 +328,5 @@ Nvidia
   - 特に5年間外国（フランス・アメリカ・イタリア・ドイツ）に住んでいた時は、様々な街に行きました。	
 
 ## 本経歴書の作成に参考にしたリンク
-- [オープン職務経歴書を書いてみた - Qiita](https://qiita.com/Sa2Knight/items/4af2f24fac9290d26119)
 - [okohs/Curriculum-Vitae-template](https://github.com/okohs/Curriculum-Vitae-template)
-- [tomo3141592653/Curriculum-Vitae](https://github.com/tomo3141592653/Curriculum-Vitae)
-  - リポジトリのフォーク元
 																																																																																																							
