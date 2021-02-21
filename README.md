@@ -94,7 +94,7 @@
 - [hypothesis](https://hypothesis.readthedocs.io/en/latest/)
 
 #### カバレッジ
-- pytest-cov
+- [pytest-cov](https://pytest-cov.readthedocs.io/en/latest/)
 
 #### CI
 - github action
