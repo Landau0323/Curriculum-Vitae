@@ -97,7 +97,7 @@
 - [pytest-cov](https://pytest-cov.readthedocs.io/en/latest/)
 
 #### CI
-- github action
+- [github action](https://github.com/features/actions)
 
 #### 脆弱性のあるdependency管理
 - github dependabot
