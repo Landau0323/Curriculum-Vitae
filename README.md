@@ -49,7 +49,7 @@
 
 ### 業務で使ったことのあるツール・フレームワーク
 #### チャット
-- Slack
+- [Slack](https://slack.com/)
 #### ドキュメント共有・共同編集
 - google drive/document/sheet/slide
 #### プロジェクト管理
