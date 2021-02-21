@@ -130,9 +130,9 @@
 - [scipy](https://www.scipy.org/)
 
 #### 機械学習
-- pandas
-- jupyter notebook 
-- scikit-learn
+- [pandas](https://pandas.pydata.org/)
+- [jupyter notebook](https://jupyter.org/) 
+- [scikit-learn](https://scikit-learn.org/stable/)
 #### deep learning
 - (tensorflow)
 - keras
