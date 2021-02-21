@@ -51,11 +51,14 @@
 #### チャット
 - [Slack](https://slack.com/)
 #### ドキュメント共有・共同編集
-- [Google Workspace](https://workspace.google.co.jp/intl/ja/) (google drive/document/sheet/slide/gmail/calendar)
+- [Google Workspace](https://workspace.google.co.jp/intl/ja/) ([google drive](https://www.google.com/intl/ja_jp/drive/)/[document](https://www.google.com/intl/ja_jp/docs/about/)/[sheet](https://www.google.com/intl/ja_jp/sheets/about/)/[slide](https://www.google.com/intl/ja_jp/slides/about/))
 #### プロジェクト管理
 - [redmine](https://redmine.jp/overview/)
 - [Jira](https://www.atlassian.com/ja/software/jira/features)
-
+#### クラウドメール
+- [gmail](https://www.google.com/intl/ja/gmail/about/)
+#### クラウドカレンダー
+- google calendar
 #### レポジトリ管理
 - [github](https://github.com/)
 - [gitlab](https://about.gitlab.com/)
