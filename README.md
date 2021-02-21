@@ -83,8 +83,8 @@
 - [pylint](https://www.pylint.org/)
 
 #### formatter
-- black
-- isort
+- [black](https://black.readthedocs.io/en/stable/)
+- [isort](https://pycqa.github.io/isort/)
 
 #### 型チェック
 - mypy
