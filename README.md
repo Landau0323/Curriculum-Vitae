@@ -139,9 +139,10 @@
 - [PyTorch](https://pytorch.org/)
 - [PyTorch geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
 
-#### 画像処理
+#### 特定のデータドメイン
+##### 画像処理
 - [OpenCV](https://opencv.org/)
-#### 3Dデータ処理
+##### 3Dデータ処理
 - [Open3D](http://www.open3d.org/)
 
 
