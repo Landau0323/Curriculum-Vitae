@@ -180,40 +180,42 @@
 -  移動自律型ロボットの制御アルゴリズムの研究開発（ドローンや車の自動運転など）
 -  実社会の課題への量子コンピュータのアルゴリズム適用
 
-## 出版物
-### 機械学習関係
+## 外部に公開された成果
+
+### 出版物
+#### 機械学習関係
 - 「近年の画像採寸技術の進展」佐藤大輔、八登浩紀、[画像ラボ 2020年1月号](https://www.nikko-pb.co.jp/products/detail.php?product_id=4731) 36-41ページ
 - 「統計学はどのように使われているのか」上坂正晃、石橋佳久、佐藤大輔、中野嵩士、八登浩紀、大田佳宏、[数学セミナー/日本評論社　2020年6月号](https://www.nippyo.co.jp/shop/magazine/8298.html)　P. 36
 
-### 物理関係
+#### 物理関係
 20本の原著論文、1本のレビュー論文を国際誌から出版。  
 [論文リスト（物理）](http://inspirehep.net/search?ln=ja&p=find+a+d.+satow&of=hb&action_search=%E6%A4%9C%E7%B4%A2)  
 詳しくは[こちら](https://landau0323.github.io/Curriculum-Vitae/PHYSICS)を参照。
 
-## 特許
-### 画像採寸関係
+### 特許
+#### 画像採寸関係
 - [特許第6531273号「寸法データ算出装置、プログラム、方法、製品製造装置、及び製品製造システム」](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6531273/61DD9B13CE0BE3DFDB3711B14797DCA7DB446E3409B9CF5C592536E7D8C66428/15/)
 - [特許第6579353号「情報処理装置、情報処理方法、寸法データ算出装置、及び製品製造装置」](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6579353/41C9A079DDF6B53B343FF354D3027BE72AE25B41098638649299D9C725366D93/15/ja)
 - [特許第6593830号「情報処理装置、情報処理方法、寸法データ算出装置、及び製品製造装置」](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6593830/0C6EE4FEA5C76AE30C912623EA734534B0ACFA23AE1A477B5ECAAF23697FD199/15/ja)
 - [特許第6792273号「寸法データ算出装置、製品製造装置、及びシルエット画像生成装置」](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6792273/722E27B9F09DFADFCE05A28DAB62EEC01F6B4599E431B15D0EE2B8EAC94D6E7F/15/ja)
 
-### ロボット関係
+#### ロボット関係
 - [特許第6721922号「指定データ生成装置、指定データ生成方法、および指定データ生成プログラム」](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-081957/151F3C0CE5269651F385372C8226DE4F2455F75762BBC53F8BEBD4D50DA56A3A/10/ja)
 - 他1件特許出願中
-### 自動差し歯設計関係
+#### 自動差し歯設計関係
 - 他1件特許出願中
 
-## 学会発表
-### 機械学習関係
+### 学会発表
+#### 機械学習関係
 - [SSII2019](https://confit.atlas.jp/guide/event/ssii2019/top?lang=ja)(ポスター発表): インタラクティブセッション IS3-36「属性情報および画像を使った人体寸法推定」佐藤 大輔、有田 親史、石橋 佳久、八登 浩紀
 - [ICIAM2019](https://iciam2019.com/)(口頭発表): "Mathematics in machine learning" Daisuke Satow, Yoshihiro Ohta
 - [SSII2020](https://confit.atlas.jp/guide/event/ssii2020/top?lang=ja)(ポスター発表): インタラクティブセッション IS3-08「画像および3D点群を用いた人体寸法・3D形状推定」中野 嵩士、佐藤 大輔、八登 浩紀
 
-### 物理関係
+#### 物理関係
 14回の国内学会、20回の国際学会での発表経験あり。  
 詳しくは[こちら](https://landau0323.github.io/Curriculum-Vitae/PHYSICS)を参照。
 
-## セミナーでの発表
+### セミナーでの発表
 - 「物理出身者が行うAIの研究開発」（招待講演）@「先端学際科学」九州大学　2020年11月
 - 「機械学習の社会実装事例」（招待講演）@ 「原子核理論コロキウム」京都大学　2020年12月
 - 「製薬業界におけるAIロボットシステムの活用例」（招待講演）@「AI・自動化ウェビナー」インフォーママーケット　2020年12月
