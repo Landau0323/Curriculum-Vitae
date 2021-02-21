@@ -36,15 +36,15 @@
 
 ### プログラミング言語
 - 現在、業務で利用している
-  - python
+  - [python](https://www.python.org/)
 - 業務で使用したことのある言語
-  - C++ 
-    - paizaランキングS取得
-    - 趣味では自律移動ロボットの制御アルゴリズムを勉強したことがある(Udacity)
+  - [C++](https://isocpp.org/) 
+    - [paiza](https://paiza.jp/)ランキングS取得
+    - 趣味では自律移動ロボットの制御アルゴリズムを勉強したことがある([Udacity](https://www.udacity.com/))
     - 物理で使う数値計算用
   - C
     - 物理で使う数値計算用
-  - FORTRAN
+  - [FORTRAN](https://fortran-lang.org/)
     - 物理で使う数値計算用
 
 ### 業務で使ったことのあるツール・フレームワーク
