@@ -9,3 +9,4 @@ jobs:
         with:
           TARGET_PATHS: README.md,PHYSICS.md
           FOLDING: false
+          MAX_HEADER_LEVEL: 2
