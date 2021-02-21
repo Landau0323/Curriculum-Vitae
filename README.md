@@ -68,9 +68,9 @@
 - [PyCharm](https://www.jetbrains.com/ja-jp/pycharm/)
 
 #### 仮想環境構築
-- Docker
-- poetry
-- pyenv
+- [Docker](https://www.docker.com/)
+- [poetry](https://python-poetry.org/)
+- [pyenv](https://github.com/pyenv/pyenv)
 
 #### ドキュメント自動生成
 - mkdocs
