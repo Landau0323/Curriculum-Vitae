@@ -8,4 +8,4 @@ jobs:
       - uses: technote-space/toc-generator@v2
         with:
           TARGET_PATHS: README.md,PHYSICS.md
-          FOLDING: TRUE
+          FOLDING: false
