@@ -57,8 +57,8 @@
 - [Jira](https://www.atlassian.com/ja/software/jira/features)
 
 #### レポジトリ管理
-- gitlab
-- github
+- [github](https://github.com/)
+- [gitlab](https://about.gitlab.com/)
 
 #### 開発フロー
 - github flow
