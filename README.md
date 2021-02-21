@@ -90,8 +90,8 @@
 - [mypy](http://www.mypy-lang.org/)
 
 #### ユニットテスト
-- pytest
-- hypothesis
+- [pytest](https://docs.pytest.org/en/stable/)
+- [hypothesis](https://hypothesis.readthedocs.io/en/latest/)
 
 #### カバレッジ
 - pytest-cov
