@@ -130,10 +130,11 @@
 - [scipy](https://www.scipy.org/)
 
 #### 機械学習
+##### 一般
 - [pandas](https://pandas.pydata.org/)
 - [jupyter notebook](https://jupyter.org/) 
 - [scikit-learn](https://scikit-learn.org/stable/)
-#### deep learning
+##### deep learning
 - ([tensorflow](https://www.tensorflow.org/?hl=ja))
 - [Keras](https://keras.io/ja/)
 - [PyTorch](https://pytorch.org/)
